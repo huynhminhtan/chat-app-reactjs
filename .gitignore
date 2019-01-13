@@ -1,0 +1,3 @@
+*.o
+.idea/
+node_modules/
