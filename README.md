@@ -24,5 +24,5 @@ Simple frontend Messenger/ Zalo chat application use ReactJS.
 
 ## Screenshot
 
-<img src="./assets/chat-app-reactjs-screenshot.png" height="500" >
+<img src="./assets/chat-app-reactjs-screenshot.jpg" height="500" >
 
