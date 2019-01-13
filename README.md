@@ -6,13 +6,13 @@ Simple frontend Messenger/ Zalo chat application use ReactJS.
 
 - Show list of conversations.
 - Show message list of each conversation.
+- *[updating]*
 
 ## Techniques used
 
 - [ReactJS](https://reactjs.org/): is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page applications.
 - [Redux - Thunk middleware](https://redux.js.org/): a predictable state container for JavaScript apps. Redux makes it easy to manage the state of your application.
 - [Ant.design](https://ant.design/docs/react/introduce): following the Ant Design specification, we developed a React UI library *antd* that contains a set of high quality components and demos for building rich, interactive user interfaces.
-
 
 ## Installation
 
@@ -24,5 +24,5 @@ Simple frontend Messenger/ Zalo chat application use ReactJS.
 
 ## Screenshot
 
-![chat-app-reactjs-screenshot](./assets/chat-app-reactjs-screenshot.png)
+<img src="./assets/chat-app-reactjs-screenshot.png" height="500" >
 
